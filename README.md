@@ -32,7 +32,7 @@ These instructions will help you get a copy of the project up and running on you
 ## Powered by
 
 [Dotdesh](https://www.dotdesh.com)
-
+https://shrutikarathi6.github.io/SheShines/
 
 
 
